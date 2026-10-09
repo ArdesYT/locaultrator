@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocaUltrator.Core", "src\LocaUltrator.Core\LocaUltrator.Core.csproj", "{7A2B9E41-A6B3-4D77-8A32-1186108F4011}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocaUltrator.App", "src\LocaUltrator.App\LocaUltrator.App.csproj", "{93B94BE8-C574-4AD7-A3DA-6B7DC4B60222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocaUltrator.Tests", "tests\LocaUltrator.Tests\LocaUltrator.Tests.csproj", "{155A4F04-9E4E-4D65-9F0F-CC98C5DA9033}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A2B9E41-A6B3-4D77-8A32-1186108F4011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2B9E41-A6B3-4D77-8A32-1186108F4011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2B9E41-A6B3-4D77-8A32-1186108F4011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2B9E41-A6B3-4D77-8A32-1186108F4011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93B94BE8-C574-4AD7-A3DA-6B7DC4B60222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B94BE8-C574-4AD7-A3DA-6B7DC4B60222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B94BE8-C574-4AD7-A3DA-6B7DC4B60222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B94BE8-C574-4AD7-A3DA-6B7DC4B60222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{155A4F04-9E4E-4D65-9F0F-CC98C5DA9033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155A4F04-9E4E-4D65-9F0F-CC98C5DA9033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155A4F04-9E4E-4D65-9F0F-CC98C5DA9033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155A4F04-9E4E-4D65-9F0F-CC98C5DA9033}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
